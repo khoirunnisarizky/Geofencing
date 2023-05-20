@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "087A9FBA-46DD-4D34-A35C-B0D7C9F59303"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE6DA5C3-B8CF-4CEE-8CE2-C06511144F94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Geofencing/SceneDelegate+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "locationManager(_:didExitRegion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE6DA5C3-B8CF-4CEE-8CE2-C06511144F94 - be663cac211abb69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geofencing.SceneDelegate.locationManager(_: __C.CLLocationManager, didExitRegion: __C.CLRegion) -&gt; ()"
+                  moduleName = "Geofencing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khoirunnisarizkynoorfatimah/Documents/Xcode%20Projects/Learning%20Workspace/Geofencing/Geofencing/SceneDelegate+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EE6DA5C3-B8CF-4CEE-8CE2-C06511144F94 - be663cac211abb0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geofencing.SceneDelegate.locationManager(_: __C.CLLocationManager, didExitRegion: __C.CLRegion) -&gt; ()"
+                  moduleName = "Geofencing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khoirunnisarizkynoorfatimah/Documents/Xcode%20Projects/Learning%20Workspace/Geofencing/Geofencing/SceneDelegate+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16804102-0BA5-4289-AF7E-BF9851F6B98B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Geofencing/SceneDelegate+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "locationManager(_:didEnterRegion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF154900-9DCB-41D7-BCA3-E61AF7A21FB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Geofencing/SceneDelegate+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "locationManager(_:didEnterRegion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF154900-9DCB-41D7-BCA3-E61AF7A21FB0 - 21475da4964e0932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geofencing.SceneDelegate.locationManager(_: __C.CLLocationManager, didEnterRegion: __C.CLRegion) -&gt; ()"
+                  moduleName = "Geofencing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khoirunnisarizkynoorfatimah/Documents/Xcode%20Projects/Learning%20Workspace/Geofencing/Geofencing/SceneDelegate+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "CF154900-9DCB-41D7-BCA3-E61AF7A21FB0 - 21475da4964e08fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geofencing.SceneDelegate.locationManager(_: __C.CLLocationManager, didEnterRegion: __C.CLRegion) -&gt; ()"
+                  moduleName = "Geofencing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khoirunnisarizkynoorfatimah/Documents/Xcode%20Projects/Learning%20Workspace/Geofencing/Geofencing/SceneDelegate+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
